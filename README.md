@@ -6,7 +6,7 @@ I’m Shruti, a Machine Learning engineer based in Canada.
 
 I love building and automating pipelines using ML algorithms
 
-My favourite projects - 
+My favourite projects:
 - lsp-code-repair
 - personalization agent (ongoing)
 
@@ -14,6 +14,16 @@ Fun Facts:
 - I am left handed
 - I love pineapple on pizza
 - I cook really good food when I am in a mood
+
+Tools I can work with:
+
+- python, SQL
+- docker, kubernetes
+- databricks, flyte, mlflow
+- fastapi, flask
+- redis, snowflake, FAISS, pinecone
+- langchain, langgraph, dspy, pydantic
+- aws, azure
 
 Check out my pinned projects to know more 🤓
 <!--
