@@ -12,7 +12,7 @@ My favourite projects -
 
 Fun Facts:
 - I am left handed
-- I have an obsession for dumplings
+- I love pineapple on pizza
 - I cook really good food when I am in a mood
 
 Check out my pinned projects to know more 🤓
