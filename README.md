@@ -10,13 +10,14 @@ My favourite projects:
 - lsp-code-repair
 - personalization agent (ongoing)
 
+Check out my pinned projects to know more 🤓
+
 Fun Facts:
 - I am left handed
 - I love pineapple on pizza
 - I cook really good food when I am in a mood
 
 Tools I can work with:
-
 - python, SQL
 - langchain, langgraph, dspy, pydantic
 - docker, kubernetes
@@ -24,8 +25,6 @@ Tools I can work with:
 - fastapi, flask
 - redis, snowflake, FAISS, pinecone
 - aws, azure
-
-Check out my pinned projects to know more 🤓
 <!--
 **Shruti-Bibra/Shruti-Bibra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
