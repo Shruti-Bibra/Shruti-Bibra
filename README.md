@@ -18,11 +18,11 @@ Fun Facts:
 Tools I can work with:
 
 - python, SQL
+- langchain, langgraph, dspy, pydantic
 - docker, kubernetes
 - databricks, flyte, mlflow
 - fastapi, flask
 - redis, snowflake, FAISS, pinecone
-- langchain, langgraph, dspy, pydantic
 - aws, azure
 
 Check out my pinned projects to know more 🤓
