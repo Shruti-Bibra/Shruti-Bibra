@@ -17,14 +17,6 @@ Fun Facts:
 - I love pineapple on pizza
 - I cook really good food when I am in a mood
 
-Tools I can work with:
-- python, SQL
-- langchain, langgraph, dspy, pydantic
-- docker, kubernetes
-- databricks, flyte, mlflow
-- fastapi, flask
-- redis, snowflake, FAISS, pinecone
-- aws, azure
 <!--
 **Shruti-Bibra/Shruti-Bibra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
