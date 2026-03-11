@@ -8,7 +8,7 @@ I love building and automating pipelines using ML algorithms
 
 My favourite projects:
 - lsp-code-repair
-- adaptive-memory-agent-with-self-improving-rag (ongoing)
+- plug and play memory agent (ongoing)
 
 Check out my pinned projects to know more 🤓
 
